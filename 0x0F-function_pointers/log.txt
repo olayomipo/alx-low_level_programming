@@ -1,0 +1,977 @@
+commit c926aa24831af9369a959ac5ad1f8506fcfbb232
+Author: LilyCrown999 <adexadexdede@gmail.com>
+Date:   Wed Oct 12 14:49:04 2022 -0700
+
+    fixing
+
+commit 679cfc778e0a59e01fc9a24ade29f83c989dacde
+Author: LilyCrown999 <adexadexdede@gmail.com>
+Date:   Fri Oct 7 11:42:27 2022 -0700
+
+    gitignore
+
+commit 6757a677a3320e7891dc65276baeec0de3eda219
+Author: LilyCrown999 <adexadexdede@gmail.com>
+Date:   Fri Oct 7 11:42:25 2022 -0700
+
+    create readme
+
+commit 4abfe73e4afde73d194e5fb7ef18da6a1a38923c
+Author: LilyCrown999 <adexadexdede@gmail.com>
+Date:   Tue Oct 4 14:48:46 2022 -0700
+
+    update
+
+commit 73a10aaf5b74f1dea5ce6ebc976413d644cdebd1
+Author: LilyCrown999 <adexadexdede@gmail.com>
+Date:   Tue Oct 4 14:48:43 2022 -0700
+
+    latest update
+
+commit 3db392223e6a7f7f43302abacb7ac51549147a71
+Author: LilyCrown999 <adexadexdede@gmail.com>
+Date:   Tue Oct 4 14:48:42 2022 -0700
+
+    latest update
+
+commit 2bbd26726bbd7dd6aad9e437814228b3d2a133a1
+Author: LilyCrown999 <adexadexdede@gmail.com>
+Date:   Tue Oct 4 14:48:41 2022 -0700
+
+    latest update
+
+commit 64570b517aa77a29385e2e68a4131f1fa1d2bb26
+Author: LilyCrown999 <adexadexdede@gmail.com>
+Date:   Tue Oct 4 14:48:40 2022 -0700
+
+    latest update
+
+commit 718fab4da0151cf4a99d9c1623e24377cf733038
+Author: LilyCrown999 <adexadexdede@gmail.com>
+Date:   Tue Oct 4 14:48:39 2022 -0700
+
+    latest update
+
+commit ac1bfe19924a34daeff6b12ce14fced7a9985be5
+Author: LilyCrown999 <adexadexdede@gmail.com>
+Date:   Tue Oct 4 14:48:38 2022 -0700
+
+    latest update
+
+commit c9945a4f112b9b36ab4b21a8b5004f92e744e759
+Author: LilyCrown999 <adexadexdede@gmail.com>
+Date:   Tue Oct 4 14:48:37 2022 -0700
+
+    latest update
+
+commit bc32f40614280632fc7b8b969f367c339fa58599
+Author: LilyCrown999 <adexadexdede@gmail.com>
+Date:   Tue Oct 4 14:48:36 2022 -0700
+
+    latest update
+
+commit ceeb0d93b9e3c4cc4e91908d12b9c1a5e85b99dc
+Author: LilyCrown999 <adexadexdede@gmail.com>
+Date:   Tue Oct 4 14:48:35 2022 -0700
+
+    create readme
+
+commit 489437da5f0ad6c83f4ad4edd192b8193210dc52
+Author: LilyCrown999 <adexadexdede@gmail.com>
+Date:   Fri Sep 30 14:03:42 2022 -0700
+
+    ignore emacs
+
+commit 839e1b28873f8018d9ece5bc73edce7dd9c31933
+Author: LilyCrown999 <adexadexdede@gmail.com>
+Date:   Fri Sep 30 14:03:40 2022 -0700
+
+    create readme
+
+commit 6363b218851f6dae919064bc667ff2f8aa798228
+Author: LilyCrown999 <adexadexdede@gmail.com>
+Date:   Fri Sep 30 13:55:39 2022 -0700
+
+    ignore emacs
+
+commit 5328835cb08fc5d4f0610ea732cc950bc9bc3000
+Author: LilyCrown999 <adexadexdede@gmail.com>
+Date:   Fri Sep 30 13:55:37 2022 -0700
+
+    create readme
+
+commit d794373f822572b026ab1c610d12bebc881e8dba
+Author: LilyCrown999 <adexadexdede@gmail.com>
+Date:   Fri Sep 30 13:54:54 2022 -0700
+
+    create readme
+
+commit 28b31ef63843ffc82430988780543439a4f16a2a
+Author: LilyCrown999 <adexadexdede@gmail.com>
+Date:   Fri Sep 30 13:53:16 2022 -0700
+
+    ignore emacs
+
+commit d54d9d0d9a3a80c8c3464df18a34469a506dc4e0
+Author: LilyCrown999 <adexadexdede@gmail.com>
+Date:   Fri Sep 30 13:53:14 2022 -0700
+
+    create readme
+
+commit cf3c4e6bbea116daa1a83127700ac38c7201eba1
+Author: LilyCrown999 <adexadexdede@gmail.com>
+Date:   Wed Sep 28 13:37:13 2022 -0700
+
+    ignore emacs
+
+commit 9c98a6fc56291277cf7cc1b8bde22c1ada061df3
+Author: LilyCrown999 <adexadexdede@gmail.com>
+Date:   Wed Sep 28 13:37:09 2022 -0700
+
+    latest update
+
+commit ff9d2e2ee10a832a050841a15b43896988e88580
+Author: LilyCrown999 <adexadexdede@gmail.com>
+Date:   Wed Sep 28 13:37:07 2022 -0700
+
+    latest update
+
+commit 77cdbabc3149c57e185ebb803683e765f56f2c83
+Author: LilyCrown999 <adexadexdede@gmail.com>
+Date:   Wed Sep 28 13:37:06 2022 -0700
+
+    latest update
+
+commit 00528d320449525efb6120dd39c97cefbb973c06
+Author: LilyCrown999 <adexadexdede@gmail.com>
+Date:   Wed Sep 28 13:37:05 2022 -0700
+
+    latest update
+
+commit 0c77d1d2b5f90735195abe40c1c29a941096fafa
+Author: LilyCrown999 <adexadexdede@gmail.com>
+Date:   Wed Sep 28 13:37:04 2022 -0700
+
+    latest update
+
+commit 6cfc80e2d582241078d5c68020ed780e316c0b5b
+Author: LilyCrown999 <adexadexdede@gmail.com>
+Date:   Wed Sep 28 13:37:03 2022 -0700
+
+    latest update
+
+commit 81780f423db7fd51efce83fcebc795b293605b43
+Author: LilyCrown999 <adexadexdede@gmail.com>
+Date:   Wed Sep 28 13:37:02 2022 -0700
+
+    latest update
+
+commit d0318aebdbfda9c05e0dd8c734b1a613aa2de861
+Author: LilyCrown999 <adexadexdede@gmail.com>
+Date:   Wed Sep 28 13:37:01 2022 -0700
+
+    latest update
+
+commit f77a3f1e33b1584f33c52bd82f9e622e4e5b48c5
+Author: LilyCrown999 <adexadexdede@gmail.com>
+Date:   Wed Sep 28 13:37:00 2022 -0700
+
+    latest update
+
+commit c8e998efc2942ff9de3695e2d4cd669e797121a9
+Author: LilyCrown999 <adexadexdede@gmail.com>
+Date:   Wed Sep 28 13:36:59 2022 -0700
+
+    latest update
+
+commit 15437c5ca5df5f83fa7a4d33c03b5c9f5bc5d145
+Author: LilyCrown999 <adexadexdede@gmail.com>
+Date:   Wed Sep 28 13:30:23 2022 -0700
+
+    101-wildcmp.c
+
+commit a41ba3ec33313fbd9fa8280e897498fd18e6e05e
+Author: LilyCrown999 <adexadexdede@gmail.com>
+Date:   Wed Sep 28 13:28:36 2022 -0700
+
+    101-wildcmp.c
+
+commit 779abd4829ba39414b466fc48d3cd0c42d9c306d
+Author: LilyCrown999 <adexadexdede@gmail.com>
+Date:   Wed Sep 28 13:23:40 2022 -0700
+
+    latest update
+
+commit 04e89254d3d0702afe75cde7f7d62649b832969f
+Author: LilyCrown999 <adexadexdede@gmail.com>
+Date:   Wed Sep 28 13:16:34 2022 -0700
+
+    latest update
+
+commit 793d3018a3b6adce67ae616dcd728381bb53a43e
+Author: LilyCrown999 <adexadexdede@gmail.com>
+Date:   Wed Sep 28 13:15:41 2022 -0700
+
+    ignore emacs
+
+commit 5388a7d1fe64141c425bdc6d1c30df164ab473d3
+Author: LilyCrown999 <adexadexdede@gmail.com>
+Date:   Wed Sep 28 13:15:38 2022 -0700
+
+    create readme
+
+commit cc19884920dba95be681668b83a4b129d4d8f890
+Author: LilyCrown999 <adexadexdede@gmail.com>
+Date:   Mon Sep 26 10:00:50 2022 -0700
+
+    gitignore
+
+commit 4a80778966f027486eee98c6209ad88bc2031b0f
+Author: LilyCrown999 <adexadexdede@gmail.com>
+Date:   Mon Sep 26 09:59:42 2022 -0700
+
+    README.md
+
+commit f54379a5f9a3105f9848ff8f5ab8add4a7b81e87
+Author: LilyCrown999 <adexadexdede@gmail.com>
+Date:   Mon Sep 26 09:58:34 2022 -0700
+
+    main.h
+
+commit a645a1e288a616ae3038dd43186423d77efa5fe4
+Author: LilyCrown999 <adexadexdede@gmail.com>
+Date:   Mon Sep 26 09:57:26 2022 -0700
+
+    alt
+
+commit a94b6880c8bf6c2a07569cfe339aff595bc26470
+Author: LilyCrown999 <adexadexdede@gmail.com>
+Date:   Mon Sep 26 09:56:18 2022 -0700
+
+    8-print_diagsums.c
+
+commit c98741b9ab713b7558673b8bb8beae4db8dbdef4
+Author: LilyCrown999 <adexadexdede@gmail.com>
+Date:   Mon Sep 26 09:55:10 2022 -0700
+
+    7-print_chessboard.c
+
+commit 8adeb8410d24f60c4498742f97deb945f977613b
+Author: LilyCrown999 <adexadexdede@gmail.com>
+Date:   Mon Sep 26 09:54:02 2022 -0700
+
+    5-strstr.c
+
+commit cda408b3ae82c9960818714e1c9195411dab8da5
+Author: LilyCrown999 <adexadexdede@gmail.com>
+Date:   Mon Sep 26 09:52:54 2022 -0700
+
+    4-strpbrk.c
+
+commit 8a22c55f0421832ad3d966a4fbdf0e82df869f0d
+Author: LilyCrown999 <adexadexdede@gmail.com>
+Date:   Mon Sep 26 09:51:46 2022 -0700
+
+    3-strspn.c
+
+commit 1e5950f9c1111d63865c406dd4a1476207ae9e04
+Author: LilyCrown999 <adexadexdede@gmail.com>
+Date:   Mon Sep 26 09:50:38 2022 -0700
+
+    2-strchr.c
+
+commit 789a2eaf16d078f2151c1f4388e06f7ba9695461
+Author: LilyCrown999 <adexadexdede@gmail.com>
+Date:   Mon Sep 26 09:49:30 2022 -0700
+
+    1-memcpy.c
+
+commit a8231af99e164085204dfd888710bee21a52f94b
+Author: LilyCrown999 <adexadexdede@gmail.com>
+Date:   Mon Sep 26 09:48:22 2022 -0700
+
+    101-crackme_password
+
+commit b19eb0c1c25abeb612e545deee45cc55ec9ad0e4
+Author: LilyCrown999 <adexadexdede@gmail.com>
+Date:   Mon Sep 26 09:47:14 2022 -0700
+
+    100-set_string.c
+
+commit f7c71155b5cda1050b881735df98b9733aa27f8a
+Author: LilyCrown999 <adexadexdede@gmail.com>
+Date:   Mon Sep 26 09:46:06 2022 -0700
+
+    0-memset.c
+
+commit e7f800000ebbc36bdada09039a31e1ed22b5502e
+Author: LilyCrown999 <adexadexdede@gmail.com>
+Date:   Mon Sep 26 09:46:05 2022 -0700
+
+    create readme
+
+commit 0a071e19874bb3680470607b4a5c207dc0067d55
+Author: LilyCrown999 <adexadexdede@gmail.com>
+Date:   Wed Sep 21 16:13:16 2022 -0700
+
+    ignore stuff
+
+commit 5f114f35022b6b9ccbda60e9e83e78491d31ad76
+Author: LilyCrown999 <adexadexdede@gmail.com>
+Date:   Wed Sep 21 16:13:15 2022 -0700
+
+    latest update
+
+commit 63944ba7d228e66610aa7f91c69bb4c0e0033a57
+Author: LilyCrown999 <adexadexdede@gmail.com>
+Date:   Wed Sep 21 16:13:14 2022 -0700
+
+    latest update
+
+commit 9fad94ef8e9eb9fd44fa69ac146dac0a63ee8d00
+Author: LilyCrown999 <adexadexdede@gmail.com>
+Date:   Wed Sep 21 16:13:13 2022 -0700
+
+    latest update
+
+commit 108826aad5741fef318bc770a09e0b68a352b180
+Author: LilyCrown999 <adexadexdede@gmail.com>
+Date:   Wed Sep 21 16:13:12 2022 -0700
+
+    latest update
+
+commit 326bcb00bb48e2465846af4d2659e1409eeef1b3
+Author: LilyCrown999 <adexadexdede@gmail.com>
+Date:   Wed Sep 21 16:13:11 2022 -0700
+
+    latest update
+
+commit d58f2efccae1072f259d03847be3d7b4a3368cea
+Author: LilyCrown999 <adexadexdede@gmail.com>
+Date:   Wed Sep 21 16:13:10 2022 -0700
+
+    latest update
+
+commit 3965793d0d37269735da9a0349a701df609762c8
+Author: LilyCrown999 <adexadexdede@gmail.com>
+Date:   Wed Sep 21 16:13:09 2022 -0700
+
+    latest update
+
+commit bd801562ed1e5488c9919c82d59a79660111008c
+Author: LilyCrown999 <adexadexdede@gmail.com>
+Date:   Wed Sep 21 16:13:08 2022 -0700
+
+    latest update
+
+commit faac1002fcc26f4217232fd44fa86c2c461c7965
+Author: LilyCrown999 <adexadexdede@gmail.com>
+Date:   Wed Sep 21 16:13:07 2022 -0700
+
+    latest update
+
+commit 332347dfb9e0f7d488e461a457968358e4294685
+Author: LilyCrown999 <adexadexdede@gmail.com>
+Date:   Wed Sep 21 16:13:06 2022 -0700
+
+    latest update
+
+commit a8f00ad1d712a199dc6352e5d643c2281d0f6c82
+Author: LilyCrown999 <adexadexdede@gmail.com>
+Date:   Wed Sep 21 16:13:05 2022 -0700
+
+    latest update
+
+commit ef26d648edfbb4084d9f046bfd6c1c3323dbf08a
+Author: LilyCrown999 <adexadexdede@gmail.com>
+Date:   Wed Sep 21 16:13:03 2022 -0700
+
+    latest update
+
+commit c35579de097772d4c343c811467c95738883c885
+Author: LilyCrown999 <adexadexdede@gmail.com>
+Date:   Wed Sep 21 16:13:02 2022 -0700
+
+    latest update
+
+commit 98b7c69e5917243fde2d44e77b3ba920cd83f68e
+Author: LilyCrown999 <adexadexdede@gmail.com>
+Date:   Wed Sep 21 16:13:01 2022 -0700
+
+    latest update
+
+commit 4810a2eab1d82819f77246a42a54f0d91246d6df
+Author: LilyCrown999 <adexadexdede@gmail.com>
+Date:   Wed Sep 21 16:12:59 2022 -0700
+
+    latest update
+
+commit 1043f9eef3b01c4eff310fe7e41e3d39d8d48498
+Author: LilyCrown999 <adexadexdede@gmail.com>
+Date:   Wed Sep 21 06:54:05 2022 -0700
+
+    create readme
+
+commit 2cfb2269c7f2e32aaa5c481ed0280bf28b05f8c0
+Author: LilyCrown999 <adexadexdede@gmail.com>
+Date:   Mon Sep 19 06:24:22 2022 -0700
+
+    latest update
+
+commit ab572031cdb6ef2d983cea7b1652b20be7c27649
+Author: LilyCrown999 <adexadexdede@gmail.com>
+Date:   Mon Sep 19 06:22:46 2022 -0700
+
+    ~
+
+commit d1d151691f464fdd72440b00caa4ad56cfab5ec0
+Author: LilyCrown999 <adexadexdede@gmail.com>
+Date:   Mon Sep 19 06:22:45 2022 -0700
+
+    latest update
+
+commit 9d22b74bd98d068c41a91dc45ebccd787c5677d9
+Author: LilyCrown999 <adexadexdede@gmail.com>
+Date:   Mon Sep 19 06:22:44 2022 -0700
+
+    latest update
+
+commit b776c944eb8c504a909722c9bdc64ea198b7ed4a
+Author: LilyCrown999 <adexadexdede@gmail.com>
+Date:   Mon Sep 19 06:22:43 2022 -0700
+
+    latest update
+
+commit 8bb1601b1012c5e0c829e48a120ecbc87260deb2
+Author: LilyCrown999 <adexadexdede@gmail.com>
+Date:   Mon Sep 19 06:22:42 2022 -0700
+
+    latest update
+
+commit be3cbdc4042d2e7eff80ff9fe974fc2c0dbb6834
+Author: LilyCrown999 <adexadexdede@gmail.com>
+Date:   Mon Sep 19 06:22:41 2022 -0700
+
+    latest update
+
+commit c1a291f79873ae8509803d8fe282773aa547d7eb
+Author: LilyCrown999 <adexadexdede@gmail.com>
+Date:   Mon Sep 19 06:22:40 2022 -0700
+
+    latest update
+
+commit 3bad3a3265729b2bc98b4b0bcbabed5977d236c5
+Author: LilyCrown999 <adexadexdede@gmail.com>
+Date:   Mon Sep 19 06:22:39 2022 -0700
+
+    latest update
+
+commit 644fb9d3518393bc65883e5601c7005aa992cbfa
+Author: LilyCrown999 <adexadexdede@gmail.com>
+Date:   Mon Sep 19 06:22:38 2022 -0700
+
+    latest update
+
+commit 117937419d43fd8b97ef5df1181f8baa1062ea02
+Author: LilyCrown999 <adexadexdede@gmail.com>
+Date:   Mon Sep 19 06:22:37 2022 -0700
+
+    latest update
+
+commit a25e515970d46345a2f0f3a5d934d0d0fc55e836
+Author: LilyCrown999 <adexadexdede@gmail.com>
+Date:   Mon Sep 19 06:22:37 2022 -0700
+
+    latest update
+
+commit 906bdf7482b2f80ea1d9c066f93751de33973ba5
+Author: LilyCrown999 <adexadexdede@gmail.com>
+Date:   Mon Sep 19 06:22:36 2022 -0700
+
+    latest update
+
+commit f57c9af820a422e50fdff9dac755e72e5a369029
+Author: LilyCrown999 <adexadexdede@gmail.com>
+Date:   Mon Sep 19 06:22:35 2022 -0700
+
+    latest update
+
+commit 1e9f538d0cedbc3709275e9d2535ccf0d5136a99
+Author: LilyCrown999 <adexadexdede@gmail.com>
+Date:   Mon Sep 19 06:22:33 2022 -0700
+
+    latest update
+
+commit 280a75770370615deb57c37d64a784b2c43fed66
+Author: LilyCrown999 <adexadexdede@gmail.com>
+Date:   Mon Sep 19 06:22:32 2022 -0700
+
+    latest update
+
+commit 2821172ea883d7e373237b342727d95ac2a852af
+Author: LilyCrown999 <adexadexdede@gmail.com>
+Date:   Mon Sep 19 06:22:31 2022 -0700
+
+    create readme
+
+commit b3a87823057e3a5d7bcae350a660888366dec38b
+Author: LilyCrown999 <adexadexdede@gmail.com>
+Date:   Thu Sep 15 03:49:11 2022 -0700
+
+    ignore emacs
+
+commit b7d064abd79140d85c7f3420cd1f7d2a6594c67c
+Author: LilyCrown999 <adexadexdede@gmail.com>
+Date:   Thu Sep 15 03:49:10 2022 -0700
+
+    latest update
+
+commit 193e83a5b33f90fbad35f538a29901352149e78d
+Author: LilyCrown999 <adexadexdede@gmail.com>
+Date:   Thu Sep 15 03:49:09 2022 -0700
+
+    latest update
+
+commit 1233ce0490cef37c296b111bdcda7a14406e197e
+Author: LilyCrown999 <adexadexdede@gmail.com>
+Date:   Thu Sep 15 03:49:08 2022 -0700
+
+    latest update
+
+commit 117bc5f62546fe3dc66a9c28f0cf077d87486a0f
+Author: LilyCrown999 <adexadexdede@gmail.com>
+Date:   Thu Sep 15 03:49:07 2022 -0700
+
+    latest update
+
+commit e4579d589e6049bebde99c655292e644541fa441
+Author: LilyCrown999 <adexadexdede@gmail.com>
+Date:   Thu Sep 15 03:49:06 2022 -0700
+
+    latest update
+
+commit 8a2bd5de0a8f6ddb25da04c83a6faf6aa1e1ca96
+Author: LilyCrown999 <adexadexdede@gmail.com>
+Date:   Thu Sep 15 03:49:05 2022 -0700
+
+    latest update
+
+commit 4add9578024466095b244d1b97c00dbf75f5924e
+Author: LilyCrown999 <adexadexdede@gmail.com>
+Date:   Thu Sep 15 03:49:04 2022 -0700
+
+    latest update
+
+commit 2d094fe65ea44abd78211bda8827420f170f60a3
+Author: LilyCrown999 <adexadexdede@gmail.com>
+Date:   Thu Sep 15 03:49:03 2022 -0700
+
+    create readme
+
+commit db6f4728872e897f9bf8bf498bf73f69b98e43bf
+Author: LilyCrown999 <adexadexdede@gmail.com>
+Date:   Thu Sep 15 03:48:17 2022 -0700
+
+    ignore emacs
+
+commit c09fcd93f640a1e5f76c9876a6ab4914b8ae2c8e
+Author: LilyCrown999 <adexadexdede@gmail.com>
+Date:   Thu Sep 15 03:48:16 2022 -0700
+
+    latest update
+
+commit db85aad89def3b16fcd127d127eea9fa16d79c5c
+Author: LilyCrown999 <adexadexdede@gmail.com>
+Date:   Thu Sep 15 03:48:15 2022 -0700
+
+    latest update
+
+commit d30e70bc8c167e6a871287df6a0e631a74f064f8
+Author: LilyCrown999 <adexadexdede@gmail.com>
+Date:   Thu Sep 15 03:48:14 2022 -0700
+
+    latest update
+
+commit f472073d8c213f73d209e8d8903851dcb5515841
+Author: LilyCrown999 <adexadexdede@gmail.com>
+Date:   Thu Sep 15 03:48:13 2022 -0700
+
+    latest update
+
+commit a69f8eeeb561808d25a9c0819d7c551ec7df7d41
+Author: LilyCrown999 <adexadexdede@gmail.com>
+Date:   Thu Sep 15 03:48:12 2022 -0700
+
+    latest update
+
+commit 33777d22eb391f700eabb22e4e8c260a4442de6a
+Author: LilyCrown999 <adexadexdede@gmail.com>
+Date:   Thu Sep 15 03:48:11 2022 -0700
+
+    latest update
+
+commit bd0ce2116afebb06473919e98dc1ad2cfab1be01
+Author: LilyCrown999 <adexadexdede@gmail.com>
+Date:   Thu Sep 15 03:48:10 2022 -0700
+
+    latest update
+
+commit 4d2226a211c6e8450837874cddc150eb4a2174a7
+Author: LilyCrown999 <adexadexdede@gmail.com>
+Date:   Thu Sep 15 03:48:09 2022 -0700
+
+    latest update
+
+commit efeb1fe8ad8363c447d8fd7ec99253becc6c42dc
+Author: LilyCrown999 <adexadexdede@gmail.com>
+Date:   Thu Sep 15 03:48:09 2022 -0700
+
+    latest update
+
+commit 76645a59a16bc12e963ec9d574f6b9ffabd1a69f
+Author: LilyCrown999 <adexadexdede@gmail.com>
+Date:   Thu Sep 15 03:48:08 2022 -0700
+
+    latest update
+
+commit cefb925f2a9bcfe2b90a8023704a56da02bb6ee0
+Author: LilyCrown999 <adexadexdede@gmail.com>
+Date:   Thu Sep 15 03:48:07 2022 -0700
+
+    latest update
+
+commit b6865b1d64268ee205b15ef5e3e48da905f5bd29
+Author: LilyCrown999 <adexadexdede@gmail.com>
+Date:   Thu Sep 15 03:48:06 2022 -0700
+
+    latest update
+
+commit 7446482714e38bbe113c073ce1cac80493b27a6c
+Author: LilyCrown999 <adexadexdede@gmail.com>
+Date:   Thu Sep 15 03:48:05 2022 -0700
+
+    latest update
+
+commit 41038fa065f9bdc982cd14674b7ff8dd4703481d
+Author: LilyCrown999 <adexadexdede@gmail.com>
+Date:   Thu Sep 15 03:48:04 2022 -0700
+
+    latest update
+
+commit 625d77f3e629d9772e07444337972f2ac015ab66
+Author: LilyCrown999 <adexadexdede@gmail.com>
+Date:   Thu Sep 15 03:48:04 2022 -0700
+
+    latest update
+
+commit f58c09ac4758d572692555a03174663e4c2398f2
+Author: LilyCrown999 <adexadexdede@gmail.com>
+Date:   Thu Sep 15 03:48:02 2022 -0700
+
+    create readme
+
+commit 48dee49966fbeb5c1ab3edfb0d8f5d28aa19ff30
+Author: LilyCrown999 <adexadexdede@gmail.com>
+Date:   Tue Sep 13 16:12:53 2022 -0700
+
+    latest update
+
+commit f4b80c04f12abd89a7a06eb4e2b35d215ccf4a47
+Author: LilyCrown999 <adexadexdede@gmail.com>
+Date:   Tue Sep 13 15:58:06 2022 -0700
+
+    latest update
+
+commit 6a902a626a87d66d421f1fd30c4161a3d9cabc5c
+Author: LilyCrown999 <adexadexdede@gmail.com>
+Date:   Tue Sep 13 15:56:58 2022 -0700
+
+    latest update
+
+commit 88f1b67a07f59bb29695288ef23820ee8e63771a
+Author: LilyCrown999 <adexadexdede@gmail.com>
+Date:   Tue Sep 13 15:53:35 2022 -0700
+
+    latest update
+
+commit 676ed0930f3172ab7c1335b75c1fa9e42a7fa7c4
+Author: LilyCrown999 <adexadexdede@gmail.com>
+Date:   Tue Sep 13 15:52:28 2022 -0700
+
+    latest update
+
+commit b38821a6e44255b2cd31cbddb28e806a3b2498c1
+Author: LilyCrown999 <adexadexdede@gmail.com>
+Date:   Tue Sep 13 15:51:20 2022 -0700
+
+    latest update
+
+commit e8f37e84f3db53c83909fe8061d210d6fce8a108
+Author: LilyCrown999 <adexadexdede@gmail.com>
+Date:   Tue Sep 13 15:50:12 2022 -0700
+
+    latest update
+
+commit 0d6abf56e449e684088644bdf33b0b78cd996aea
+Author: LilyCrown999 <adexadexdede@gmail.com>
+Date:   Tue Sep 13 15:49:04 2022 -0700
+
+    latest update
+
+commit 6ab5e21ec1b70a53f445b31b09889e0af07e1cab
+Author: LilyCrown999 <adexadexdede@gmail.com>
+Date:   Tue Sep 13 15:47:56 2022 -0700
+
+    latest update
+
+commit 08e9501a57849ae9d3e7f3cb2be86b590cf2e7d3
+Author: LilyCrown999 <adexadexdede@gmail.com>
+Date:   Tue Sep 13 15:46:48 2022 -0700
+
+    latest update
+
+commit 2a4c8fb519f345ce6e4cb6b9eea8aac06b96eed0
+Author: LilyCrown999 <adexadexdede@gmail.com>
+Date:   Tue Sep 13 15:45:41 2022 -0700
+
+    latest update
+
+commit 1dfec93feea8ee52008805149c8fd264bf4f9827
+Author: LilyCrown999 <adexadexdede@gmail.com>
+Date:   Tue Sep 13 15:44:33 2022 -0700
+
+    latest update
+
+commit 24076f130f852620c5c9ae1d4d64d9446ad7cdc6
+Author: LilyCrown999 <adexadexdede@gmail.com>
+Date:   Tue Sep 13 15:43:25 2022 -0700
+
+    latest update
+
+commit 329c31d7d0f0e821347a61a5dfdc82649625ae17
+Author: LilyCrown999 <adexadexdede@gmail.com>
+Date:   Tue Sep 13 15:42:17 2022 -0700
+
+    latest update
+
+commit c7b8fb81ba666f81ab69f2d551eb7a247ddeb373
+Author: LilyCrown999 <adexadexdede@gmail.com>
+Date:   Tue Sep 13 15:41:09 2022 -0700
+
+    latest update
+
+commit 29b15d6358cdf6a0bef65410a384569b75e93d37
+Author: LilyCrown999 <adexadexdede@gmail.com>
+Date:   Tue Sep 13 15:40:01 2022 -0700
+
+    latest update
+
+commit 59f115e854e68a0c3ae39b29bae7cbca22692edf
+Author: LilyCrown999 <adexadexdede@gmail.com>
+Date:   Tue Sep 13 15:38:53 2022 -0700
+
+    latest update
+
+commit e0b915a55bc007899df38e640bc9d0f6fe5b7f5a
+Author: LilyCrown999 <adexadexdede@gmail.com>
+Date:   Tue Sep 13 15:37:45 2022 -0700
+
+    latest update
+
+commit b9af9dadaf7c22659b8bd1e97c95f3dc7f9f5039
+Author: LilyCrown999 <adexadexdede@gmail.com>
+Date:   Tue Sep 13 15:36:37 2022 -0700
+
+    latest update
+
+commit 1725608e85de464575b35f2b6edc2dd8172f081a
+Author: LilyCrown999 <adexadexdede@gmail.com>
+Date:   Tue Sep 13 15:35:29 2022 -0700
+
+    latest update
+
+commit bf98354449a3c003783dd2da8cf0242fd89e7e01
+Author: LilyCrown999 <adexadexdede@gmail.com>
+Date:   Tue Sep 13 15:35:28 2022 -0700
+
+    create readme
+
+commit 81ea50559b5878bad5fc535f5e86b49bbf98fb0d
+Author: LilyCrown999 <adexadexdede@gmail.com>
+Date:   Tue Sep 13 15:32:52 2022 -0700
+
+    latest update
+
+commit 77fe50714fc9708d5cef3caf407b8c93ab70d8db
+Author: LilyCrown999 <adexadexdede@gmail.com>
+Date:   Fri Sep 9 15:54:18 2022 -0700
+
+    .gitignore added
+
+commit 2f658f10ddbfd854b30a2561ea54e43f1e7218ab
+Author: LilyCrown999 <adexadexdede@gmail.com>
+Date:   Fri Sep 9 15:53:17 2022 -0700
+
+    README.md
+
+commit 185c9ef0aaf745a30b9878d70d4c614421370754
+Author: LilyCrown999 <adexadexdede@gmail.com>
+Date:   Fri Sep 9 15:49:15 2022 -0700
+
+    9-print_comb.c
+
+commit 6787e11a1d60b234da9b1b27d5d3442a5bfef595
+Author: LilyCrown999 <adexadexdede@gmail.com>
+Date:   Fri Sep 9 15:48:14 2022 -0700
+
+    8-print_base16.c
+
+commit 76272a0753524c4e464d38cff5200b76c54f11ab
+Author: LilyCrown999 <adexadexdede@gmail.com>
+Date:   Fri Sep 9 15:47:13 2022 -0700
+
+    7-print_tebahpla.c
+
+commit fc9af1aa11d52073eeed4a3a9eb6745ef98bdff3
+Author: LilyCrown999 <adexadexdede@gmail.com>
+Date:   Fri Sep 9 15:46:12 2022 -0700
+
+    6-print_numberz.c
+
+commit 8dd92a77ce1b345bb2d3bb49f5c7f757141aa2c7
+Author: LilyCrown999 <adexadexdede@gmail.com>
+Date:   Fri Sep 9 15:45:11 2022 -0700
+
+    5-print_numbers.c
+
+commit af9a69aa0c4fe496c8970ad1991981cf1ea6eb72
+Author: LilyCrown999 <adexadexdede@gmail.com>
+Date:   Fri Sep 9 15:44:11 2022 -0700
+
+    4-print_alphabt.c
+
+commit 382f2ca4e70dfbfc0fcab636f46704c64be603cb
+Author: LilyCrown999 <adexadexdede@gmail.com>
+Date:   Fri Sep 9 15:43:10 2022 -0700
+
+    3-print_alphabets.c
+
+commit 9f9a1e42a0c73faf4141e69447226beb3fe6abc1
+Author: LilyCrown999 <adexadexdede@gmail.com>
+Date:   Fri Sep 9 15:42:09 2022 -0700
+
+    2-print_alphabet.c
+
+commit eb7623152f0fc26422470ef0355fcaf0fcd98cd7
+Author: LilyCrown999 <adexadexdede@gmail.com>
+Date:   Fri Sep 9 15:41:08 2022 -0700
+
+    1-last_digit.c
+
+commit c125cc2e58047dd6a10f72498fdd91b800725d48
+Author: LilyCrown999 <adexadexdede@gmail.com>
+Date:   Fri Sep 9 15:40:07 2022 -0700
+
+    102-print_comb5.c
+
+commit f5ff60fb44fe688115ffa838cda287eecb8a4c6f
+Author: LilyCrown999 <adexadexdede@gmail.com>
+Date:   Fri Sep 9 15:39:06 2022 -0700
+
+    101-print_comb4.c
+
+commit 3fd4bf65e298d0f49dfe4469fe7092f8b04025d7
+Author: LilyCrown999 <adexadexdede@gmail.com>
+Date:   Fri Sep 9 15:38:06 2022 -0700
+
+    100-print_comb3.c
+
+commit f62eb9654805ea88ecca031cdfac266201397b84
+Author: LilyCrown999 <adexadexdede@gmail.com>
+Date:   Fri Sep 9 15:37:05 2022 -0700
+
+    0-positive_or_negative.c
+
+commit 53f8560d142186d0c37edf7b54c8422bb52f9904
+Author: LilyCrown999 <adexadexdede@gmail.com>
+Date:   Fri Sep 9 15:29:51 2022 -0700
+
+    latest commit
+
+commit cfd692bf2cd8ea1f9feb7e78cc3483f773e980f0
+Author: LilyCrown999 <adexadexdede@gmail.com>
+Date:   Fri Sep 9 15:04:17 2022 -0700
+
+    latest update
+
+commit 123e5c3925804bdd3989ccb39a9d1da11a134b6d
+Author: LilyCrown999 <adexadexdede@gmail.com>
+Date:   Thu Sep 8 17:15:52 2022 -0700
+
+    .gitignore added
+
+commit c0df0e10be7a25d062f1943ca93afcf708735b16
+Author: LilyCrown999 <adexadexdede@gmail.com>
+Date:   Thu Sep 8 17:15:41 2022 -0700
+
+    README.md --
+
+commit dffdf2147bcd4beea023c2f3ac3d108808399be4
+Author: LilyCrown999 <adexadexdede@gmail.com>
+Date:   Thu Sep 8 17:14:59 2022 -0700
+
+    6-size.c --
+
+commit 4efe792d35529557e9ef4fc3cdd9c27f5703bd63
+Author: LilyCrown999 <adexadexdede@gmail.com>
+Date:   Thu Sep 8 17:14:49 2022 -0700
+
+    5-printf.c --
+
+commit 4d1521f324dec04fe778ce516b37b33b33e054c5
+Author: LilyCrown999 <adexadexdede@gmail.com>
+Date:   Thu Sep 8 17:14:38 2022 -0700
+
+    4-puts.c --
+
+commit 7a55b5ba8bf9fd75c40c10e88996fe3394a6afde
+Author: LilyCrown999 <adexadexdede@gmail.com>
+Date:   Thu Sep 8 17:14:27 2022 -0700
+
+    3-name --
+
+commit ba640fa78bd464cb1bc66ae6133f594673efddc0
+Author: LilyCrown999 <adexadexdede@gmail.com>
+Date:   Thu Sep 8 17:14:16 2022 -0700
+
+    2-assembler --
+
+commit 908de217eb4a07a6fffdd8922c00a8a824f395ad
+Author: LilyCrown999 <adexadexdede@gmail.com>
+Date:   Thu Sep 8 17:14:05 2022 -0700
+
+    1-compiler --
+
+commit ef3ccc581f98cccd4e445d8bcfcd9e4e20ffeb09
+Author: LilyCrown999 <adexadexdede@gmail.com>
+Date:   Thu Sep 8 17:13:54 2022 -0700
+
+    101-quote.c --
+
+commit f8ca25b90f5454e1c537f52b16af67fe2f7b7dca
+Author: LilyCrown999 <adexadexdede@gmail.com>
+Date:   Thu Sep 8 17:13:43 2022 -0700
+
+    100-intel --
+
+commit 3f263a7c37148accb11eb1611fd71b72ed0e270b
+Author: LilyCrown999 <adexadexdede@gmail.com>
+Date:   Thu Sep 8 17:13:32 2022 -0700
+
+    0-preprocessor --
+
+commit c992b1050ab2051dbbd48dad34beadb0126363af
+Author: LilyCrown999 <83468046+LilyCrown999@users.noreply.github.com>
+Date:   Fri Sep 9 01:06:04 2022 +0100
+
+    Create README.md
